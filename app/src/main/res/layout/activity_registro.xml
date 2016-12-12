@@ -11,18 +11,17 @@
     tools:context="com.example.gabriel.buscando.RegistroActivity">
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
         android:layout_below="@+id/txtapellido"
         android:layout_alignEnd="@+id/txtapellido"
         android:id="@+id/txtfechanac"
-        android:hint="FechaNac"
-        android:text="mayo" />
+        android:hint="FechaNac" />
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
@@ -30,57 +29,39 @@
         android:layout_below="@+id/txtnombre"
         android:layout_alignStart="@+id/txtnombre"
         android:hint="Apellidos"
-        android:text="hhhhhh" />
+        android:layout_alignParentEnd="true" />
 
     <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:ems="10"
-        android:id="@+id/txtnombre"
-        android:hint="Nombre"
-        android:layout_alignParentTop="true"
-        android:layout_alignEnd="@+id/txtsexo"
-        android:layout_marginEnd="11dp"
-        android:layout_marginTop="66dp"
-        android:text="gggggg" />
-
-    <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
         android:id="@+id/txtsexo"
         android:hint="Sexo"
-        android:layout_below="@+id/txtfechanac"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="55dp"
-        android:text="male" />
+        android:layout_below="@+id/txtfechanac" />
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
         android:layout_below="@+id/txtemail"
         android:layout_alignEnd="@+id/txtemail"
         android:id="@+id/txtusuario"
-        android:hint="Usuario"
-        android:text="gabb" />
+        android:hint="Usuario" />
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
         android:layout_below="@+id/txtusuario"
         android:layout_alignStart="@+id/txtusuario"
         android:id="@+id/txtcontraseña"
-        android:hint="Contraseña"
-        android:text="123" />
+        android:hint="Contraseña" />
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
@@ -88,30 +69,37 @@
         android:hint="Email"
         android:layout_below="@+id/txtsexo"
         android:layout_alignStart="@+id/txtfechanac"
-        android:layout_marginTop="10dp"
-        android:text="jg.bo" />
-
-    <Button
-        android:text="Registrar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button2"
-        android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/txtcontraseña"
-        android:layout_marginEnd="49dp"
-        android:layout_marginBottom="20dp"
-        android:onClick="registrar"/>
+        android:layout_marginTop="10dp" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
-        android:layout_alignParentTop="true"
-        android:layout_alignEnd="@+id/txtnombre"
-        android:layout_marginTop="31dp"
         android:id="@+id/txt_ci"
         android:hint="Carnet_Identidad"
-        android:text="500" />
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/txtnombre"
+        android:hint="Nombre"
+        android:layout_below="@+id/txt_ci"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Registrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:layout_marginBottom="15dp"
+        android:onClick="registrar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

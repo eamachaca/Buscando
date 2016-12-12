@@ -1,9 +1,11 @@
 package com.example.gabriel.buscando;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
 
 import com.example.gabriel.buscando.Adaptador.ListaPersonaAdapter;
 import com.example.gabriel.buscando.Clases.extraviado;
@@ -71,5 +73,11 @@ public class InicioActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    public void AddDesaparecido(View view) {
+        Intent a = new Intent(this,ADDImageActivity.class);
+        a.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(a);
     }
 }

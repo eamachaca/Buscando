@@ -16,7 +16,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/btn_ADAceptar"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:onClick="ADDCargarImg"/>
 
     <Button
         android:text="Cancelar"
@@ -25,12 +26,13 @@
         android:layout_width="140dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="17dp" />
+        android:layout_marginEnd="17dp"
+        android:onClick="ADDCancelar"/>
 
     <EditText
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="text|number"
         android:ems="10"
         android:id="@+id/inp_ADDireccion"
         android:layout_below="@+id/inp_ADDescripcion"
@@ -38,6 +40,7 @@
         android:hint="Escriba la Direcion" />
 
     <EditText
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:inputType="textMultiLine"
         android:ems="10"
@@ -47,31 +50,25 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:id="@+id/inp_AD"
-        android:layout_marginTop="20dp"
-        android:layout_alignParentStart="true" />
-
     <Spinner
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:id="@+id/spiADDesaparecido"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
+        android:scrollbarSize="18dp"
+        android:layout_height="70px"
         android:layout_below="@+id/inp_ADDireccion"
-        android:layout_alignParentStart="true"
-        android:scrollbarSize="18dp"/>
+        android:layout_alignParentStart="true" />
 
-    <EditText
+    <EditText         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/spiADDesaparecido"
         android:textSize="18dp"
         android:ems="10"
         android:id="@+id/inp_ADFechaEx"
-        android:inputType="date"
-        />
+        android:hint="Ingrese la fecha en la q se extravio la persona"
+        android:layout_below="@+id/spiADDesaparecido"
+        android:layout_alignParentStart="true" />
+
 </RelativeLayout>

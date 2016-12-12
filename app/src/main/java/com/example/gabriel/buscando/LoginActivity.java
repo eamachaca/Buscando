@@ -45,8 +45,9 @@ public class LoginActivity extends AppCompatActivity {
                 String x= dataSnapshot.child("contraseña").getValue(String.class) ;
                 if (x.compareTo( contraseña.getText().toString())==0){
                     Toast.makeText(getApplicationContext(),"ingreso correcto",Toast.LENGTH_SHORT).show();
-                   // Intent z = new Intent(retornar(),InicioActivity.class);
-                   //startActivity(z);
+                    Intent z = new Intent(retornar(),InicioActivity.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+
+                    startActivity(z);
 
                 }
 
@@ -60,7 +61,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void clicR(View view) {
-        Intent z = new Intent(retornar(),RegistroActivity.class);
+        Intent z = new Intent(retornar(),RegistroActivity.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(z);
     }
 }
