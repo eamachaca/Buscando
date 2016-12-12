@@ -1,10 +1,12 @@
 package com.example.gabriel.buscando.Clases;
 
+import java.io.Serializable;
+
 /**
  * Created by GABRIEL on 9/12/2016.
  */
 
-public class usuarios {
+public class usuarios implements Serializable{
     private String Contraseña,Email, Nombre_usuario,Persona;
 
     public usuarios() {

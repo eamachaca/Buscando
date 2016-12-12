@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_2a438fc513efb7d4148082768f21036f8eb6a7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/i7/Documents/buscando/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -97,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="96858f0a45f4ef9530c29de8eed5b9312df1fec0">
+        sha1="412acbf3f1876fbb68925c512db7cc9591b12181">
         <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b3130cdcb067aeadaf8f094912c70ff9082dbd23.jar" />
     </item>
     <item
@@ -234,6 +243,15 @@
         revision="24.0.0"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
         <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_7725f464e38f1ec1238a7febf23bc55768fd5d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_b33aeb510f919f2acf343578117b31e1293541f3.jar" />
     </item>
     <item
         is-multidex="false"

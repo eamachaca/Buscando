@@ -24,7 +24,9 @@ public class ListaImagenesAdapter extends RecyclerView.Adapter<ListaImagenesAdap
     private ArrayList<Bitmap> dataset;
     private Context context;
 
-
+    public ArrayList<Bitmap> getDataset() {
+        return dataset;
+    }
 
     public ListaImagenesAdapter()
     {

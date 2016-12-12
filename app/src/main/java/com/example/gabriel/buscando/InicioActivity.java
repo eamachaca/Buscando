@@ -9,6 +9,7 @@ import android.view.View;
 
 import com.example.gabriel.buscando.Adaptador.ListaPersonaAdapter;
 import com.example.gabriel.buscando.Clases.extraviado;
+import com.example.gabriel.buscando.Clases.usuarios;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -28,7 +29,7 @@ public class InicioActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicio);
-
+        usuarios admin=(usuarios)getIntent().getExtras().get("USUARIO");
         listaPersonaAdaptador=new ListaPersonaAdapter(this);   /////
 
         recyclerView= (RecyclerView) findViewById(R.id.recycler_view);
@@ -76,7 +77,7 @@ public class InicioActivity extends AppCompatActivity {
     }
 
     public void AddDesaparecido(View view) {
-        Intent a = new Intent(this,ADDImageActivity.class);
+        Intent a = new Intent(this,AddDesaparecidoActivity.class);
         a.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(a);
     }

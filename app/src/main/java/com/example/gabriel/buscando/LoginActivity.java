@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.gabriel.buscando.Clases.usuarios;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -42,13 +43,13 @@ public class LoginActivity extends AppCompatActivity {
         mensajeRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
+                usuarios newp=dataSnapshot.getValue(usuarios.class);
                 String x= dataSnapshot.child("contraseña").getValue(String.class) ;
                 if (x.compareTo( contraseña.getText().toString())==0){
                     Toast.makeText(getApplicationContext(),"ingreso correcto",Toast.LENGTH_SHORT).show();
                     Intent z = new Intent(retornar(),InicioActivity.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-
+                    z.putExtra("USUARIO",newp);
                     startActivity(z);
-
                 }
 
             }
