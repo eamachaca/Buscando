@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="351de128fd8fa96b392dd01547d346f7dbf63341">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/instant-run_a6c7f9aff80de3b13257c23ec8b6b7a658183b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f66561da434d0bfd57b1c3a00e0e54021f4cdd58">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b3130cdcb067aeadaf8f094912c70ff9082dbd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_f4b1e71c95335cd1924818bcfc6c5c00e5d784bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_bcab5d3689047ac6ac4cc0107a88e2df65e3cf9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_2e21b149396c00991ea51913d4a6de89aac2d229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a8f978bf1b5e191a86f6e40d63b3e50d5a9f4dca">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b3130cdcb067aeadaf8f094912c70ff9082dbd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_cba45d0dfda844e7cdffeb082c6750473d4c66ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_bcab5d3689047ac6ac4cc0107a88e2df65e3cf9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_4604ad3700881d97700354dbaaf8e6696569dbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_d8e6420911aa724688c67c4d06624d4e61983ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_822050a6ec48dfd5a53212ad216c155154bcb84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_f4b1e71c95335cd1924818bcfc6c5c00e5d784bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_6a86433a6148e0b6486ff6fb16f89771d8bbf00b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_80d25b6200ec4283cc057eac404b2f30dcbae3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_58253108b061ed9ade968379b72bfc5540fe3e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_109225cb75872a5830a3dc33076ab4f2710ac81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_4f7c8eb43fa3c0a4594b4cbbbdb6fcff077cc673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_822050a6ec48dfd5a53212ad216c155154bcb84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_58253108b061ed9ade968379b72bfc5540fe3e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_4f7c8eb43fa3c0a4594b4cbbbdb6fcff077cc673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_80c0bfcf63e4f9946869747c5d8f20d3f08638f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_2e21b149396c00991ea51913d4a6de89aac2d229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_109225cb75872a5830a3dc33076ab4f2710ac81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="351de128fd8fa96b392dd01547d346f7dbf63341">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/instant-run_a6c7f9aff80de3b13257c23ec8b6b7a658183b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_20f3e765aabe03f8bd2e1e7c0bdd7b38bcc14f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_bcf4e8236f935cb26b3d802d15a8cbd4062c9f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/glide-3.7.0_9b5a1bad8b37202faa107781656b6fb10f0c423a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_7725f464e38f1ec1238a7febf23bc55768fd5d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_da8189f3f70fbbc65a52c948f75eff825e9ff385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/Documents/buscando/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_bcf4e8236f935cb26b3d802d15a8cbd4062c9f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/i7/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/i7/Documents/buscando/app/build/intermediates/pre-dexed/debug/glide-3.7.0_9b5a1bad8b37202faa107781656b6fb10f0c423a.jar" />
+    </item>
+
+</items>

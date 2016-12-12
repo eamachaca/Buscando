@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397953561123",
+    "firebase_url": "https://se-busca-30af5.firebaseio.com",
+    "project_id": "se-busca-30af5",
+    "storage_bucket": "se-busca-30af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397953561123:android:bf1e5a2d4b3b19bd",
+        "android_client_info": {
+          "package_name": "com.example.gabriel.buscando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397953561123-a8laia5nua04jqcjfdhsnkjprnsk85ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabriel.buscando",
+            "certificate_hash": "0B7B4E99ACE8F80D0879D6A7196034A77707845F"
+          }
+        },
+        {
+          "client_id": "397953561123-rvn1l01f022mbolef53uf0v5uruforql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxgcIK_Qu-samNLFJ6d21JHbCtD6HVv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397953561123-rvn1l01f022mbolef53uf0v5uruforql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
